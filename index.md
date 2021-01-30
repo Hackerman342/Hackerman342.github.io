@@ -5,30 +5,44 @@
 layout: home
 ---
 
-# Intro
-
-Hi - my name is Kyle Coble.
-
-I am a robotics engineer focused in autonomous robotics and computer vision.
+**Note: These pages are still under development...**
 
 
+<!-- <p align="right">
+<kbd>
+  <img src="img/headshot.jpg" width="400">
+</kbd>
+</p> -->
 
 
-# Work Experience
+<table border="0">
+ <!-- <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr> -->
+ <tr>
+    <td>
+      Hi - my name is Kyle Coble. <br>
+      I am a robotics engineer focused in autonomous robotics and computer vision. <br>
+      I am in my final semester at KTH Royal Institute of Technology
+      where I am pursuing an MSc in Systems, Control, and Robotics. <br>
+    </td>
+    <td>
+      <p align="right">
+      <kbd>
+        <img src="img/headshot.jpg" width="400">
+      </kbd>
+      </p>
+    </td>
+ </tr>
+</table>
 
-## Robotics
+<!-- I believe autonomous robots have the ability to make our world
+cleaner, safer, and more accessible. -->
+
+I am excited to begin my career developing autonomous robotic solutions for
+industries including **sustainability**, **space / ocean exploration**,
+and **mining / construction**.
 
 
-### NASA Jet Propulsion Laboratory
 
- * Internship - i2f 
- * Internship - AI group
-
-### KTH Smart Mobility Lab
-
-* Research Engineer
-
-## Mining / Cement / Construction
-
- * Tilcon NY
- * CalPortland
