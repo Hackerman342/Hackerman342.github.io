@@ -39,9 +39,9 @@ industries including **sustainability**, **space / ocean exploration**,
 and **mining / construction**.
 
 
-<!-- <p align="center">
+<p align="center">
   <kbd>
     <img src="img/awesome_drone.gif">
   </kbd>
-</p> -->
+</p>
 
