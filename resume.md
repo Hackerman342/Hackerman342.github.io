@@ -6,4 +6,3 @@ permalink: /resume/
 
 Resume test page
 
-
