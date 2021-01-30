@@ -8,12 +8,6 @@ layout: home
 **Note: These pages are still under development...**
 
 
-<!-- <p align="right">
-<kbd>
-  <img src="img/headshot.jpg" width="400">
-</kbd>
-</p> -->
-
 
 <table border="0">
  <!-- <tr>
@@ -45,4 +39,9 @@ industries including **sustainability**, **space / ocean exploration**,
 and **mining / construction**.
 
 
+<!-- <p align="center">
+  <kbd>
+    <img src="img/awesome_drone.gif">
+  </kbd>
+</p> -->
 
