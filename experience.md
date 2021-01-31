@@ -4,17 +4,18 @@ title: Experience
 permalink: /experience/
 ---
 
+
 # NASA Jet Propulsion Laboratory
 
 **Software Intern – Artificial Intelligence, Observation Planning & Analysis** <br>
-*Jan ‘21 – present* <br>
+*Jan 2021 – present* <br>
 
  * Develop key components of the image processing pipeline for a multi-agent visual terrain relative navigation system
  <!-- * Develop multi-agent visual SLAM solutions by reconstructing terrain structure from image shapes and features -->
  <!-- * Prototype autonomous systems capable of communicating images, features, and estimates amongst each other -->
 
 **Software Intern – Innovation to Flight (i2F)** <br>
-*Jun ‘20 – Aug ‘20* <br>
+*Jun 2020 – Aug 2020* <br>
 
  * Developed software for a prototype Lunar navigation/communication system using a constellation of CubeSats
  * Led the design, development, and integration of a model lunar rover with autonomous terraforming capabilities
@@ -24,7 +25,7 @@ permalink: /experience/
 # KTH Royal Institute of Technology
 
 **Research Engineer - Smart Mobility Lab** <br>
-*Sep ‘19 – Dec ‘20* <br>
+*Sep 2019 – Dec 2020* <br>
 
  * Developed Python and C++ perception and localization ROS technologies for a fleet of scaled autonomous vehicles
  * Reduced robotic hardware by customizing OpenCV packages for computer vision SLAM using fiducial landmarks
@@ -32,18 +33,83 @@ permalink: /experience/
  * Improved autonomous vehicle traffic control tower UI/UX design with custom augmented reality applications
 
 **Teaching Assistant - Image Analysis and Computer Vision** <br>
-*Oct ’20 – Dec ‘20* <br>
-Key Topics: Filtering, Edge detection, Hough transforms, Stereo vision, Seg
-mentation
+*Oct 2020 – Dec 2020* <br>
+[Course Link - DD2423](https://www.kth.se/student/kurser/kurs/DD2423?l=en) <br>
+Key Topics: Filtering, Edge detection, Hough transforms, Stereo vision, Segmentation <br>
 
 
-# Tilcon NY
+# Tilcon New York Inc.
 
-I worked for Tilcon NY, a mining company supplying building
-materials to the NYC metropolitan area, as a **Project Engineer**.
+**Project Engineer** <br>
+*Jun 2018 – Jul 2019* <br>
+
+ * Planned and led the execution of a $30M environmental reclamation of an exhausted quarrying facility
+ * Coordinated and assisted execution of all capital expenditure projects for the New Jersey region totaling $15M annually
+ * Safely managed and executed all projects, without injury, while supervising contractor teams of 15+
+ * Used 3D pit modelling to create short and long term mine plans for four aggregate quarries
+ * Maintained mining permits and regulatory compliance for four quarrying facilities
+ * Optimized quarry and construction equipment fleets
 
 
 # CalPortland
 
+**Maintenance Engineer** <br>
+*Sep 2017 – May 2018* <br>
+
+ * Determined the cause of key system failures by implementing and leading a root cause failure analysis program
+ * Reduced manufacturing costs and repair times by redesigning critical machinery components with Solidworks
+ * Scheduled and budgeted production downtimes for comprehensive machinery repair totaling up to $4.0M on MS Project
+
+**Associate Reliability Engineer** <br>
+*Aug 2016 – Sep 2017*
+ * Increased equipment reliability by overhauling preventative, predictive, and condition-based maintenance practices
+ * Decreased energy and water consumption by designing flow modifications using ANSYS computational fluid dynamics
+ * Implemented a thorough non-destructive testing (NDT) program for critical plant equipment
+ * Dynamically balanced and aligned critical process equipment
+
+**Project Engineering Intern** <br>
+*May 2015 – Aug 2015* <br>
+
+ * Improved the capital expenditure request process by redesigning the project payback spreadsheet deployed company-wide
+ * Designed and constructed systems involving pneumatics, evaporation, and air filtration
+ * Trended and analyzed company-wide energy usage totaling $100M annually
+
+
+
+# Cornell University
+
+**Teaching Assistant - System Dynamics** <br>
+*Jan 2016 – May 2016* <br>
+[Course Link - MAE 3260](https://classes.cornell.edu/browse/roster/SP20/class/MAE/3260) <br>
+Key Topics: System Analysis, Vibrations of multi-DOF systems, Control systems <br>
+
+**Teaching Assistant - Introduction to Mechanical Engineering** <br>
+*Aug 2015 - Dec 2015* <br>
+[Course Link - MAE 1170](https://classes.cornell.edu/browse/roster/FA20/class/MAE/1170) <br>
+Key Topics: Mechanics, Fluid mechanics, Heat Transfer, Robotics <br>
+
+**Steel Bridge Team - Design and Fabrication Team Member** <br>
+*Aug 2013 – May 2014* <br>
+
+ * Designed legs and connections using STAAD and MASTAN2 to model and test possible designs
+ * Fabricated and constructed the bridge in Cornell’s Civil and Environmental Engineering machine shop
+
+
 
 # Volunteer Experience
+
+
+**The Coding School** <br>
+Guest Mentor <br>
+*Jul 2020* <br>
+
+ * Presented educational and career possibilities in the field of robotics to students
+
+
+**Boy Scouts of America** <br>
+Eagle Scout, Senior Patrol Leader, Camp Emerald Bay <br>
+*Jan 2009 – Dec 2012* <br>
+
+ * Designed and led construction of a four stage 3 cu. yd. composting system
+ * Led weekly meetings, planned overnight outings, and mediated between scouts’ and adults’ interests
+ * Instructed sailing, lifeguarded, and prepared meals for up to 900 people per week
