@@ -47,14 +47,14 @@ and **mining / construction**.
     <td>
       <p align="center">
         <a href="/education/">
-          <img src="img/logos/cornell_logo.gif" width="150">
+          <img src="img/logos/cornell_logo.gif" height="150">
         </a>
       </p>
     </td>
     <td>
       <p align="center">
         <a href="/education/">
-          <img src="img/logos/kth_logo.png" width="150">
+          <img src="img/logos/kth_logo.png" height="150">
         </a>
       </p>
     </td>
@@ -66,14 +66,14 @@ and **mining / construction**.
 
 <p align="center">
   <a href="/experience/">
-    <img src="img/logos/jpl_logo.gif" width="300">
+    <img src="img/logos/jpl_logo.gif" height="200">
   </a>
 </p>
 
 
 <p align="center">
   <a href="/experience/">
-    <img src="img/logos/itrl_logo.png" width="500">
+    <img src="img/logos/itrl_logo.png" height="100">
   </a>
 </p>
 
@@ -82,14 +82,14 @@ and **mining / construction**.
     <td>
       <p align="center">
         <a href="/experience/">
-          <img src="img/logos/cpc_logo.jpg" width="150">
+          <img src="img/logos/cpc_logo.jpg" height="100">
         </a>
       </p>
     </td>
     <td>
       <p align="center">
         <a href="/experience/">
-          <img src="img/logos/tny_logo.jpg" width="150">
+          <img src="img/logos/tny_logo.jpg" height="100">
         </a>
       </p>
     </td>
@@ -101,7 +101,7 @@ and **mining / construction**.
 
 <p align="center">
   <a href="/projects/">
-    <img src="img/awesome_drone.gif">
+    <img src="img/awesome_drone.gif" height="400">
   </a>
 </p>
 
@@ -113,17 +113,17 @@ and **mining / construction**.
  <tr>
     <td>
       <a href="/publications/">
-        <img src="img/logos/springer_logo.png" width="200">
+        <img src="img/logos/springer_logo.png" height="70">
       </a>
     </td>
     <td>
       <a href="/publications/">
-        <img src="img/logos/arc_logo.png" width="200">
+        <img src="img/logos/arc_logo.png" height="70">
       </a>
     </td>
     <td>
       <a href="/publications/">
-        <img src="img/logos/ieee_logo.jpg" width="200">
+        <img src="img/logos/ieee_logo.jpg" height="100">
       </a>
     </td>
   </tr>

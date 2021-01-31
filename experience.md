@@ -4,6 +4,11 @@ title: Experience
 permalink: /experience/
 ---
 
+<p align="left">
+  <a href="https://www.jpl.nasa.gov/">
+    <img src="../img/logos/jpl_logo.gif" height="100">
+  </a>
+</p>
 
 # NASA Jet Propulsion Laboratory
 
@@ -22,9 +27,15 @@ permalink: /experience/
  * Visually estimated CubeSat position by comparing detected features, contours, and craters to a known terrain map
 
 
+<p align="left">
+  <a href="https://www.kth.se/en">
+    <img src="../img/logos/kth_logo.png" height="100">
+  </a>
+</p>
+
 # KTH Royal Institute of Technology
 
-**Research Engineer - Smart Mobility Lab** <br>
+**Research Engineer - [Smart Mobility Lab](https://www.kth.se/sv/is/dcs/research/control-of-transport/smart-mobility-lab)** <br>
 *Sep 2019 – Dec 2020* <br>
 
  * Developed Python and C++ perception and localization ROS technologies for a fleet of scaled autonomous vehicles
@@ -32,11 +43,18 @@ permalink: /experience/
  * Wrote robust object-oriented APIs enabling students to integrate fiducial SLAM into advanced course projects
  * Improved autonomous vehicle traffic control tower UI/UX design with custom augmented reality applications
 
-**Teaching Assistant - Image Analysis and Computer Vision** <br>
+**Teaching Assistant** <br>
+
+**[DD2423 - Image Analysis and Computer Vision](https://www.kth.se/student/kurser/kurs/DD2423?l=en)** <br>
 *Oct 2020 – Dec 2020* <br>
-[Course Link - DD2423](https://www.kth.se/student/kurser/kurs/DD2423?l=en) <br>
 Key Topics: Filtering, Edge detection, Hough transforms, Stereo vision, Segmentation <br>
 
+
+<p align="left">
+  <a href="https://www.tilconny.com/">
+    <img src="../img/logos/tny_logo.jpg" height="100">
+  </a>
+</p>
 
 # Tilcon New York Inc.
 
@@ -51,6 +69,12 @@ Key Topics: Filtering, Edge detection, Hough transforms, Stereo vision, Segmenta
  * Optimized quarry and construction equipment fleets
 
 
+<p align="left">
+  <a href="https://www.calportland.com/">
+    <img src="../img/logos/cpc_logo.jpg" height="100">
+  </a>
+</p>
+
 # CalPortland
 
 **Maintenance Engineer** <br>
@@ -61,7 +85,8 @@ Key Topics: Filtering, Edge detection, Hough transforms, Stereo vision, Segmenta
  * Scheduled and budgeted production downtimes for comprehensive machinery repair totaling up to $4.0M on MS Project
 
 **Associate Reliability Engineer** <br>
-*Aug 2016 – Sep 2017*
+*Aug 2016 – Sep 2017* <br>
+
  * Increased equipment reliability by overhauling preventative, predictive, and condition-based maintenance practices
  * Decreased energy and water consumption by designing flow modifications using ANSYS computational fluid dynamics
  * Implemented a thorough non-destructive testing (NDT) program for critical plant equipment
@@ -76,16 +101,23 @@ Key Topics: Filtering, Edge detection, Hough transforms, Stereo vision, Segmenta
 
 
 
+<p align="left">
+  <a href="https://www.cornell.edu/">
+    <img src="../img/logos/cornell_logo.gif" height="100">
+  </a>
+</p>
+
 # Cornell University
 
-**Teaching Assistant - System Dynamics** <br>
+**Teaching Assistant**
+
+**[MAE 3260 - System Dynamics](https://classes.cornell.edu/browse/roster/SP20/class/MAE/3260)** <br>
 *Jan 2016 – May 2016* <br>
-[Course Link - MAE 3260](https://classes.cornell.edu/browse/roster/SP20/class/MAE/3260) <br>
+<!-- [Course Link - MAE 3260](https://classes.cornell.edu/browse/roster/SP20/class/MAE/3260) <br> -->
 Key Topics: System Analysis, Vibrations of multi-DOF systems, Control systems <br>
 
-**Teaching Assistant - Introduction to Mechanical Engineering** <br>
+**[MAE 1170 - Introduction to Mechanical Engineering](https://classes.cornell.edu/browse/roster/FA20/class/MAE/1170)** <br>
 *Aug 2015 - Dec 2015* <br>
-[Course Link - MAE 1170](https://classes.cornell.edu/browse/roster/FA20/class/MAE/1170) <br>
 Key Topics: Mechanics, Fluid mechanics, Heat Transfer, Robotics <br>
 
 **Steel Bridge Team - Design and Fabrication Team Member** <br>
@@ -99,14 +131,14 @@ Key Topics: Mechanics, Fluid mechanics, Heat Transfer, Robotics <br>
 # Volunteer Experience
 
 
-**The Coding School** <br>
+**[The Coding School](https://codeconnects.org/)** <br>
 Guest Mentor <br>
 *Jul 2020* <br>
 
  * Presented educational and career possibilities in the field of robotics to students
 
 
-**Boy Scouts of America** <br>
+**[Boy Scouts of America](https://www.scouting.org/)** <br>
 Eagle Scout, Senior Patrol Leader, Camp Emerald Bay <br>
 *Jan 2009 – Dec 2012* <br>
 
