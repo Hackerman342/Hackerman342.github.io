@@ -126,8 +126,6 @@ where I am pursuing an MSc in Systems, Control, and Robotics. <br> -->
 # [Publications](/publications/)
 
 <table border="0">
- <!-- <tr>
- </tr> -->
  <tr>
     <td>
       <a href="/publications/">
@@ -147,9 +145,19 @@ where I am pursuing an MSc in Systems, Control, and Robotics. <br> -->
   </tr>
 </table>
 
-<!-- <img src="img/nasa_logo.png"> -->
-<!-- <img src="img/cornell_logo.gif"> -->
-<!-- <img src="img/kth_logo.png"> -->
-<!-- <img src="img/nasa_logo.png"> -->
+# [Skills](/skills/)
 
-<!-- ![image](img/nasa_logo.png) -->
+<table border="0">
+  <tr>
+    <td><p align="center"><img src="img/logos/skills/ros_logo.png"    height="70"></p></td>
+    <td><p align="center"><img src="img/logos/skills/python_logo.png" height="70"></p></td>
+    <td><p align="center"><img src="img/logos/skills/cpp_logo.png"    height="70"></p></td>
+    <td><p align="center"><img src="img/logos/skills/matlab_logo.png" height="70"></p></td>
+  </tr>
+  <tr>
+    <td><p align="center"><img src="img/logos/skills/ansys_logo.png"      height="70"></p></td>
+    <td><p align="center"><img src="img/logos/skills/px4_logo.png"        height="70"></p></td>
+    <td><p align="center"><img src="img/logos/skills/solidworks_logo.png" height="70"></p></td>
+    <td><p align="center"><img src="img/logos/skills/gazebo_logo.png"     height="70"></p></td>
+  </tr>
+</table>
