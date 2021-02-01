@@ -5,7 +5,7 @@
 layout: home
 ---
 
-**Note: These pages are still under development...**
+<!-- **Note: These pages are still under development...** -->
 
 # [About](/)
 
@@ -13,26 +13,41 @@ layout: home
  <tr>
     <td>
       Hi - my name is Kyle Coble. <br>
-      I am a robotics engineer focused in autonomous robotics and computer vision. <br>
+      <br>
+      I am an engineer focused in autonomous robotics and computer vision.
       I am in my final semester at KTH Royal Institute of Technology
       where I am pursuing an MSc in Systems, Control, and Robotics. <br>
+      <br>
+      I am excited to begin my career developing autonomous robots
+      that make our world cleaner, safer, and more accessible
+      <!-- I believe autonomous robots have the ability to make our world
+      cleaner, safer, and more accessible and
+      I am excited to begin my career developing autonomous robots for
+      industries including **sustainability**, **space / ocean exploration**,
+      and **mining / construction**. -->
     </td>
     <td>
       <p align="right">
-      <kbd>
-        <img src="img/headshot.jpg" width="400">
-      </kbd>
+        <kbd>
+          <img src="img/headshot.jpg" width="1000">
+        </kbd>
       </p>
     </td>
  </tr>
 </table>
 
-<!-- I believe autonomous robots have the ability to make our world
-cleaner, safer, and more accessible. -->
+<!-- <p align="right">
+  <kbd>
+    <img src="img/headshot.jpg" height="100">
+  </kbd>
+</p>
 
-I am excited to begin my career developing autonomous robotic solutions for
-industries including **sustainability**, **space / ocean exploration**,
-and **mining / construction**.
+Hi - my name is Kyle Coble. <br>
+I am a robotics engineer focused in autonomous robotics and computer vision. <br>
+I am in my final semester at KTH Royal Institute of Technology
+where I am pursuing an MSc in Systems, Control, and Robotics. <br> -->
+
+
 
 
 <!-- <td><p align="center"><img src="img/jpl_logo.gif" width="500"> -->
@@ -47,14 +62,14 @@ and **mining / construction**.
     <td>
       <p align="center">
         <a href="/education/">
-          <img src="img/logos/cornell_logo.gif" height="150">
+          <img src="img/logos/kth_logo.png" height="150">
         </a>
       </p>
     </td>
     <td>
       <p align="center">
         <a href="/education/">
-          <img src="img/logos/kth_logo.png" height="150">
+          <img src="img/logos/cornell_logo.gif" height="150">
         </a>
       </p>
     </td>
@@ -70,6 +85,7 @@ and **mining / construction**.
   </a>
 </p>
 
+<br>
 
 <p align="center">
   <a href="/experience/">
@@ -77,19 +93,21 @@ and **mining / construction**.
   </a>
 </p>
 
+<br>
+
 <table border="0">
  <tr>
     <td>
       <p align="center">
         <a href="/experience/">
-          <img src="img/logos/cpc_logo.jpg" height="100">
+          <img src="img/logos/tny_logo.jpg" height="100">
         </a>
       </p>
     </td>
     <td>
       <p align="center">
         <a href="/experience/">
-          <img src="img/logos/tny_logo.jpg" height="100">
+          <img src="img/logos/cpc_logo.jpg" height="100">
         </a>
       </p>
     </td>

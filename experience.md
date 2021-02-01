@@ -26,6 +26,7 @@ permalink: /experience/
  * Led the design, development, and integration of a model lunar rover with autonomous terraforming capabilities
  * Visually estimated CubeSat position by comparing detected features, contours, and craters to a known terrain map
 
+[Publication: Flight Demonstrations of Lunar CubeSat Navigation and Communication Technologies](/publications/)
 
 <p align="left">
   <a href="https://www.kth.se/en">
@@ -42,6 +43,8 @@ permalink: /experience/
  * Reduced robotic hardware by customizing OpenCV packages for computer vision SLAM using fiducial landmarks
  * Wrote robust object-oriented APIs enabling students to integrate fiducial SLAM into advanced course projects
  * Improved autonomous vehicle traffic control tower UI/UX design with custom augmented reality applications
+
+[Publication: Motion Model and Filtering Techniques for Scaled Vehicle Localization with Fiducial Marker Detection](/publications/)
 
 **Teaching Assistant** <br>
 
@@ -92,6 +95,8 @@ Key Topics: Filtering, Edge detection, Hough transforms, Stereo vision, Segmenta
  * Implemented a thorough non-destructive testing (NDT) program for critical plant equipment
  * Dynamically balanced and aligned critical process equipment
 
+[Publication: Computational Fluid Dynamics in the Cement Manufacturing Process](/publications/)
+
 **Project Engineering Intern** <br>
 *May 2015 – Aug 2015* <br>
 
@@ -120,7 +125,7 @@ Key Topics: System Analysis, Vibrations of multi-DOF systems, Control systems <b
 *Aug 2015 - Dec 2015* <br>
 Key Topics: Mechanics, Fluid mechanics, Heat Transfer, Robotics <br>
 
-**Steel Bridge Team - Design and Fabrication Team Member** <br>
+**[Steel Bridge Team - Design and Fabrication Team](https://steelbridge.engineering.cornell.edu/)** <br>
 *Aug 2013 – May 2014* <br>
 
  * Designed legs and connections using STAAD and MASTAN2 to model and test possible designs
