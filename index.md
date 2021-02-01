@@ -28,9 +28,7 @@ layout: home
     </td>
     <td>
       <p align="right">
-        <kbd>
-          <img src="img/headshot.jpg" width="1000">
-        </kbd>
+        <img src="img/headshot.jpg" width="1000">
       </p>
     </td>
  </tr>
@@ -61,16 +59,16 @@ where I am pursuing an MSc in Systems, Control, and Robotics. <br> -->
  <tr>
     <td>
       <p align="center">
-        <a href="/education/">
-          <img src="img/logos/kth_logo.png" height="150">
-        </a>
+        <!-- <a href="/education/"> -->
+        <img src="img/logos/kth_logo.png" height="150">
+        <!-- </a> -->
       </p>
     </td>
     <td>
       <p align="center">
-        <a href="/education/">
-          <img src="img/logos/cornell_logo.gif" height="150">
-        </a>
+        <!-- <a href="/education/"> -->
+        <img src="img/logos/cornell_logo.gif" height="150">
+        <!-- </a> -->
       </p>
     </td>
   </tr>
@@ -80,17 +78,17 @@ where I am pursuing an MSc in Systems, Control, and Robotics. <br> -->
 # [Experience](/experience/)
 
 <p align="center">
-  <a href="/experience/">
-    <img src="img/logos/jpl_logo.gif" height="200">
-  </a>
+  <!-- <a href="/experience/"> -->
+  <img src="img/logos/jpl_logo.gif" height="200">
+  <!-- </a> -->
 </p>
 
 <br>
 
 <p align="center">
-  <a href="/experience/">
-    <img src="img/logos/itrl_logo.png" height="100">
-  </a>
+  <!-- <a href="/experience/"> -->
+  <img src="img/logos/itrl_logo.png" height="100">
+  <!-- </a> -->
 </p>
 
 <br>
@@ -99,16 +97,16 @@ where I am pursuing an MSc in Systems, Control, and Robotics. <br> -->
  <tr>
     <td>
       <p align="center">
-        <a href="/experience/">
-          <img src="img/logos/tny_logo.jpg" height="100">
-        </a>
+        <!-- <a href="/experience/"> -->
+        <img src="img/logos/tny_logo.jpg" height="100">
+        <!-- </a> -->
       </p>
     </td>
     <td>
       <p align="center">
-        <a href="/experience/">
-          <img src="img/logos/cpc_logo.jpg" height="100">
-        </a>
+        <!-- <a href="/experience/"> -->
+        <img src="img/logos/cpc_logo.jpg" height="100">
+        <!-- </a> -->
       </p>
     </td>
   </tr>
@@ -118,9 +116,9 @@ where I am pursuing an MSc in Systems, Control, and Robotics. <br> -->
 # [Projects](/projects/)
 
 <p align="center">
-  <a href="/projects/">
-    <img src="img/awesome_drone.gif" height="400">
-  </a>
+  <!-- <a href="/projects/"> -->
+  <img src="img/awesome_drone.gif" height="400">
+  <!-- </a> -->
 </p>
 
 # [Publications](/publications/)
@@ -128,19 +126,19 @@ where I am pursuing an MSc in Systems, Control, and Robotics. <br> -->
 <table border="0">
  <tr>
     <td>
-      <a href="/publications/">
-        <img src="img/logos/springer_logo.png" height="70">
-      </a>
+      <!-- <a href="/publications/"> -->
+      <img src="img/logos/springer_logo.png" height="70">
+      <!-- </a> -->
     </td>
     <td>
-      <a href="/publications/">
-        <img src="img/logos/arc_logo.png" height="70">
-      </a>
+      <!-- <a href="/publications/"> -->
+      <img src="img/logos/arc_logo.png" height="70">
+      <!-- </a> -->
     </td>
     <td>
-      <a href="/publications/">
-        <img src="img/logos/ieee_logo.jpg" height="100">
-      </a>
+      <!-- <a href="/publications/"> -->
+      <img src="img/logos/ieee_logo.jpg" height="100">
+      <!-- </a> -->
     </td>
   </tr>
 </table>
