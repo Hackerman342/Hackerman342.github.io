@@ -5,8 +5,6 @@
 layout: home
 ---
 
-<!-- **Note: These pages are still under development...** -->
-
 # [About](/)
 
 <table border="0">

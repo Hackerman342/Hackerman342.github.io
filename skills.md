@@ -28,6 +28,7 @@ permalink: /skills/
  * OpenCV
  * Gazebo
  * PX4
+ * MAVROS
  * TensorFlow
  * PyTorch
  * NumPy

@@ -2,6 +2,8 @@
 layout: page
 title: Projects
 permalink: /projects/
+
+driveId: 1Fuq0QKfbSe90Fed_5NmO_cHDs2LBIiZK/preview
 ---
 
 
@@ -13,17 +15,34 @@ permalink: /projects/
  * Integrated sensors, including lidar cameras, with flight control unit (PX4) and companion computer (MAVROS)
  * Manufactured modular components for simplified construction and easily configurable sensor payloads
 
-<p align="center">
-  <a href="/projects/">
-    <img src="../img/heavy_boy.jpg" height="400">
-  </a>
-</p>
+
+<table border="0">
+ <tr>
+    <td>
+      <p align="center">
+        <!-- <a href="/projects/"> -->
+        <img src="../img/awesome_drone.gif" height="200">
+        <!-- </a> -->
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <!-- <a href="/projects/"> -->
+        <img src="../img/heavy_boy.jpg" height="200">
+        <!-- </a> -->
+      </p>
+    </td>
+ </tr>
+</table>
+
+
+
+**Example Flight**
 
 <p align="center">
-  <a href="/projects/">
-    <img src="../img/awesome_drone.gif" height="400">
-  </a>
+  {% include googleDrivePlayer.html id=page.driveId %}
 </p>
+
 
 # Terrain Relative Navigation (TRN) for an Autonomous Underwater Vehicle (AUV)
 *Jan ’20 – Dec ‘20* <br>
