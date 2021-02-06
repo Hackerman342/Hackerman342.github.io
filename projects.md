@@ -39,9 +39,8 @@ driveId: 1Fuq0QKfbSe90Fed_5NmO_cHDs2LBIiZK/preview
 
 **Example Flight**
 
-<p align="center">
-  {% include googleDrivePlayer.html id=page.driveId %}
-</p>
+
+{% include googleDrivePlayer.html id=page.driveId %}
 
 
 # Terrain Relative Navigation (TRN) for an Autonomous Underwater Vehicle (AUV)
