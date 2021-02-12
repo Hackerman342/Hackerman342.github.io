@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# [About](/)
+<!-- # [About](/) -->
 
 <table border="0">
  <tr>

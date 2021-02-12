@@ -15,7 +15,7 @@ permalink: /experience/
 **Software Intern – Artificial Intelligence, Observation Planning & Analysis** <br>
 *Jan 2021 – present* <br>
 
- * Develop key components of the image processing pipeline for a multi-agent visual terrain relative navigation system
+ * Develop key components of the image processing pipeline for a multi-agent visual terrain relative navigation system <!--designed for unmanned surface vessels-->
  <!-- * Develop multi-agent visual SLAM solutions by reconstructing terrain structure from image shapes and features -->
  <!-- * Prototype autonomous systems capable of communicating images, features, and estimates amongst each other -->
 
