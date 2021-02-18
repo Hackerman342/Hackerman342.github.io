@@ -15,7 +15,8 @@ permalink: /experience/
 **Software Intern – Artificial Intelligence, Observation Planning & Analysis** <br>
 *Jan 2021 – present* <br>
 
- * Develop key components of the image processing pipeline for a multi-agent visual terrain relative navigation system <!--designed for unmanned surface vessels-->
+ * Develop components of the image processing pipeline for a visual terrain relative navigation system
+ <!-- * Develop key components of the image processing pipeline for a multi-agent visual terrain relative navigation system designed for unmanned surface vessels -->
  <!-- * Develop multi-agent visual SLAM solutions by reconstructing terrain structure from image shapes and features -->
  <!-- * Prototype autonomous systems capable of communicating images, features, and estimates amongst each other -->
 
@@ -24,7 +25,7 @@ permalink: /experience/
 
  * Developed software for a prototype Lunar navigation/communication system using a constellation of CubeSats
  * Led the design, development, and integration of a model lunar rover with autonomous terraforming capabilities
- * Visually estimated CubeSat position by comparing detected features, contours, and craters to a known terrain map
+ * Visually detected lunar features, contours, and craters to be used for estimating CubeSat position
 
 [Publication: Flight Demonstrations of Lunar CubeSat Navigation and Communication Technologies](/publications/)
 

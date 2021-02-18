@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 
-driveId: 1Fuq0QKfbSe90Fed_5NmO_cHDs2LBIiZK/preview
+driveId: 1Fuq0QKfbSe90Fed_5NmO_cHDs2LBIiZK/view
 ---
 
 
