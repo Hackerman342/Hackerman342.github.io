@@ -15,7 +15,8 @@ permalink: /experience/
 **Software Intern – Artificial Intelligence, Observation Planning & Analysis** <br>
 *Jan 2021 – present* <br>
 
- * Develop components of the image processing pipeline for a visual terrain relative navigation system
+ * Develop components of the image processing pipeline for a multi-agent visual terrain relative navigation system
+ * Train and use deep learning models for semantic segmentation of maritime environments for position estimation
  <!-- * Develop key components of the image processing pipeline for a multi-agent visual terrain relative navigation system designed for unmanned surface vessels -->
  <!-- * Develop multi-agent visual SLAM solutions by reconstructing terrain structure from image shapes and features -->
  <!-- * Prototype autonomous systems capable of communicating images, features, and estimates amongst each other -->
@@ -46,6 +47,8 @@ permalink: /experience/
  * Improved autonomous vehicle traffic control tower UI/UX design with custom augmented reality applications
 
 [Publication: Motion Model and Filtering Techniques for Scaled Vehicle Localization with Fiducial Marker Detection](/publications/)
+
+[SVEA Website](https://svea.eecs.kth.se/)
 
 **Teaching Assistant** <br>
 
