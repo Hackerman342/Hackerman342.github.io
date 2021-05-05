@@ -17,12 +17,12 @@ layout: home
       I am an engineer focused in autonomous robotics, computer vision,
       and machine learning.
       I am completing my masters thesis at KTH Royal Institute of Technology
-      where I am pursuing an **MSc in Systems, Control, and Robotics**
+      where I am pursuing an MSc in Systems, Control, and Robotics
       in the Robotics and Autonomous Systems track. <br>
       <br>
       Currently I am working as an intern at NASA Jet Propulsion Laboratory
-      working with deep learning-based perception and localization techniques
-      for fleets of autonomous robots. <br>
+      developing deep learning-based perception and localization technologies
+      for fleets of autonomous maritime robots. <br>
       <br>
       <!-- Currently I am working as an intern at NASA Jet Propulsion Laboratory
       working with deep learning-based perception and localization techniques
