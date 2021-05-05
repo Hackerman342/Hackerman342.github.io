@@ -13,6 +13,7 @@ permalink: /publications/
 *[Pending release of SoCTA '20 conference proceedings]* <br>
 
 | K. Coble et al. “Motion Model and Filtering Techniques for Scaled Vehicle Localization with Fiducial Marker Detection.” Soft Computing: Theories and Applications Conference, 2020
+
 <!-- | K. Coble, A. Mahajan, S. Kaul, H. P. Singh, “Motion Model and Filtering Techniques for Scaled Vehicle Localization with Fiducial Marker Detection.” Soft Computing: Theories and Applications Conference, 2020 -->
 
 
@@ -23,6 +24,7 @@ permalink: /publications/
 [AIAA-ARC Link](https://arc.aiaa.org/doi/10.2514/6.2020-4008) <br>
 
 | H. Singh et al. “Flight Demonstrations of Lunar CubeSat Navigation and Communication Technologies.” ARC-AIAA ASCEND Conference, 2020
+
 <!-- | H. Singh, H. Hall, M. Van Buren, K. Coble, C. Huang, C. Yuan “Flight Demonstrations of Lunar CubeSat Navigation and Communication Technologies.” ARC-AIAA ASCEND Conference, 2020 -->
 <!-- | Hunter Singh et al., Flight Demonstrations of Lunar CubeSat Navigation and Communication Technologies, ASCEND 2020. AIAA 2020-4008. November 2020., doi.org/10.2514/6.2020-4008 -->
 

@@ -35,11 +35,10 @@ driveId: 1Fuq0QKfbSe90Fed_5NmO_cHDs2LBIiZK/view
  </tr>
 </table>
 
+| Example flights can be seen on the [Project Webpage](https://alsarmie.github.io/DD2414-Documentation/)
 
-
-**Example Flights can be seen on the [Project Webpage](https://alsarmie.github.io/DD2414-Documentation/)**
-
-<!-- {% include googleDrivePlayer.html id=page.driveId %} -->
+<!-- **Example Flights**
+{% include googleDrivePlayer.html id=page.driveId %} -->
 
 
 # Terrain Relative Navigation (TRN) for an Autonomous Underwater Vehicle (AUV)
