@@ -12,11 +12,17 @@ permalink: /experience/
 
 # NASA Jet Propulsion Laboratory
 
-**Software Intern – Artificial Intelligence, Observation Planning & Analysis** <br>
-*Jan 2021 – present* <br>
+**Software Intern – Robotic Perception Systems** <br>
+*May 2021 – present* <br>
 
- * Develop components of the image processing pipeline for a multi-agent visual terrain relative navigation system
- * Train and use deep learning models for semantic segmentation of maritime environments for position estimation
+ * Continuation of previous work with Artificial Intelligence, Observation Planning & Analysis group
+
+**Software Intern – Artificial Intelligence, Observation Planning & Analysis** <br>
+*Jan 2021 – Apr 2021* <br>
+
+ * Build components of the image processing pipeline for a multi-agent visual terrain relative navigation system
+ * Train deep learning models (DeepLab) for semantic segmentation of maritime environments for position estimation
+
  <!-- * Develop key components of the image processing pipeline for a multi-agent visual terrain relative navigation system designed for unmanned surface vessels -->
  <!-- * Develop multi-agent visual SLAM solutions by reconstructing terrain structure from image shapes and features -->
  <!-- * Prototype autonomous systems capable of communicating images, features, and estimates amongst each other -->
@@ -24,8 +30,8 @@ permalink: /experience/
 **Software Intern – Innovation to Flight (i2F)** <br>
 *Jun 2020 – Aug 2020* <br>
 
- * Developed software for a prototype Lunar navigation/communication system using a constellation of CubeSats
- * Led the design, development, and integration of a model lunar rover with autonomous terraforming capabilities
+ * Led the design, development, sensor integration, and testing of an autonomous model lunar terraforming rover
+ * Prototyped software for a Lunar navigation/communication system using a constellation of CubeSats
  * Visually detected lunar features, contours, and craters to be used for estimating CubeSat position
 
 [Publication: Flight Demonstrations of Lunar CubeSat Navigation and Communication Technologies](/publications/)
@@ -37,6 +43,12 @@ permalink: /experience/
 </p>
 
 # KTH Royal Institute of Technology
+
+**Teaching Assistant** <br>
+
+**[DD2423 - Image Analysis and Computer Vision](https://www.kth.se/student/kurser/kurs/DD2423?l=en)** <br>
+*Oct 2020 – Dec 2020* <br>
+Key Topics: Filtering, Edge detection, Hough transforms, Stereo vision, Segmentation <br>
 
 **Research Engineer - [Smart Mobility Lab](https://www.kth.se/sv/is/dcs/research/control-of-transport/smart-mobility-lab)** <br>
 *Sep 2019 – Dec 2020* <br>
@@ -50,11 +62,6 @@ permalink: /experience/
 
 [SVEA Website](https://svea.eecs.kth.se/)
 
-**Teaching Assistant** <br>
-
-**[DD2423 - Image Analysis and Computer Vision](https://www.kth.se/student/kurser/kurs/DD2423?l=en)** <br>
-*Oct 2020 – Dec 2020* <br>
-Key Topics: Filtering, Edge detection, Hough transforms, Stereo vision, Segmentation <br>
 
 
 <p align="left">

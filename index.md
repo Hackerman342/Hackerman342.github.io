@@ -10,14 +10,22 @@ layout: home
 <table border="0">
  <tr>
     <td>
-      Hi - my name is Kyle Coble. <br>
+      Hi - my name is Kyle Coble.
+      I am an engineer focused in autonomous robotics, computer vision,
+      and machine learning.
+      I am completing my masters thesis at KTH Royal Institute of Technology
+      where I am pursuing an MSc in Systems, Control, and Robotics
+      in the Robotics and Autonomous Systems track. <br>
       <br>
-      I am an engineer focused in autonomous robotics and computer vision.
-      I am in my final semester at KTH Royal Institute of Technology
-      where I am pursuing an MSc in Systems, Control, and Robotics. <br>
+      Currently I am working as an intern at NASA Jet Propulsion Laboratory
+      working with deep learning-based perception and localization techniques
+      for fleets of autonomous robots. <br>
       <br>
       I am excited to begin my career developing autonomous robots
-      that make our world cleaner, safer, and more accessible
+      that make our world cleaner, safer, and more accessible. <br>
+      <br>
+      And be sure to check out [the documentation](https://alsarmie.github.io/DD2414-Documentation/)
+      for the drone my friend Alex and I recently finished building from the ground up!
       <!-- I believe autonomous robots have the ability to make our world
       cleaner, safer, and more accessible and
       I am excited to begin my career developing autonomous robots for

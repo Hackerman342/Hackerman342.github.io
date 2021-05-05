@@ -37,17 +37,16 @@ driveId: 1Fuq0QKfbSe90Fed_5NmO_cHDs2LBIiZK/view
 
 
 
-**Example Flight**
+**Example Flights can be seen on the [Project Webpage](https://alsarmie.github.io/DD2414-Documentation/)**
 
-
-{% include googleDrivePlayer.html id=page.driveId %}
+<!-- {% include googleDrivePlayer.html id=page.driveId %} -->
 
 
 # Terrain Relative Navigation (TRN) for an Autonomous Underwater Vehicle (AUV)
 *Jan ’20 – Dec ‘20* <br>
 [Project Report](https://drive.google.com/file/d/1qWFHkYBH9ujdldfnacRQuP8OoNJ60fOj/view?usp=sharing) <br>
 
- * Built a multithreaded Particle Filter API enabling co-researchers to prototype various AUV sensor configurations
+ * Created a particle filter interface enabling co-researchers to prototype various AUV sensor configurations
  * Researched optimal usage of MBES sonar data for TRN, including feature matching and gaussian processes
 
 
