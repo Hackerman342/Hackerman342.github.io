@@ -23,7 +23,7 @@ layout: home
       Currently I am working as an intern at NASA Jet Propulsion Laboratory
       developing, simulating, and field testing solutions for autonomous drones
       built for search and rescue missions in challenging environments
-      as part of [Team CoSTAR](https://costar.jpl.nasa.gov/). <br>
+      as part of <a href="https://costar.jpl.nasa.gov/">Team CoSTAR</a>. <br>
       <br>
       <!-- Currently I am working as an intern at NASA Jet Propulsion Laboratory
       developing deep learning-based perception and localization technologies
