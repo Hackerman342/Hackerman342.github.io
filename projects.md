@@ -11,7 +11,7 @@ driveId: 1Fuq0QKfbSe90Fed_5NmO_cHDs2LBIiZK/view
 *Aug ’20 – Jan ‘21* <br>
 [Project Webpage](https://alsarmie.github.io/DD2414-Documentation/) <br>
 
- * Designed and built a serviceable research drone platform tailored towards indoor navigation and visual SLAM
+ * Designed and built a research drone platform tailored towards indoor navigation and visual SLAM
  * Integrated sensors, including lidar cameras, with flight control unit (PX4) and companion computer (MAVROS)
  * Manufactured modular components for simplified construction and easily configurable sensor payloads
 

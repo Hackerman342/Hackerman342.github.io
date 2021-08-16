@@ -21,9 +21,13 @@ layout: home
       in the Robotics and Autonomous Systems track. <br>
       <br>
       Currently I am working as an intern at NASA Jet Propulsion Laboratory
-      developing deep learning-based perception and localization technologies
-      for fleets of autonomous maritime robots. <br>
+      developing, simulating, and field testing solutions for autonomous drones
+      built for search and rescue missions in challenging environments
+      as part of [Team CoSTAR](https://costar.jpl.nasa.gov/). <br>
       <br>
+      <!-- Currently I am working as an intern at NASA Jet Propulsion Laboratory
+      developing deep learning-based perception and localization technologies
+      for fleets of autonomous maritime robots. <br> -->
       <!-- Currently I am working as an intern at NASA Jet Propulsion Laboratory
       working with deep learning-based perception and localization techniques
       for fleets of autonomous robots. <br>

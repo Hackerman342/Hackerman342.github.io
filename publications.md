@@ -10,7 +10,7 @@ permalink: /publications/
 *Soft Computing: Theories and Applications. Advances in Intelligent Systems and Computing, Springer 2020.* <br>
 *Dec 2020* <br>
 *Best Paper Award at Soft-Computing: Theories and Applications (SoCTA-2020)* <br>
-*[Pending release of SoCTA '20 conference proceedings]* <br>
+[Springer Link](https://www.springer.com/gp/book/9789811617393#)
 
 | K. Coble et al. “Motion Model and Filtering Techniques for Scaled Vehicle Localization with Fiducial Marker Detection.” Soft Computing: Theories and Applications Conference, 2020
 

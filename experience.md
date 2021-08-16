@@ -12,16 +12,23 @@ permalink: /experience/
 
 # NASA Jet Propulsion Laboratory
 
+**Robotics Intern – DARPA SubT Challenge, Drone Team** <br>
+*July 2021 - Present* <br>
+[Team CoSTAR](https://costar.jpl.nasa.gov/) <br>
+
+ * Hardware/software integration, simulation, and field testing of UAVs for underground search and rescue missions
+
 **Software Intern – Robotic Perception Systems** <br>
-*May 2021 – present* <br>
+*May 2021 – July 2021* <br>
 
  * Continuation of previous work with Artificial Intelligence, Observation Planning & Analysis group
 
 **Software Intern – Artificial Intelligence, Observation Planning & Analysis** <br>
 *Jan 2021 – Apr 2021* <br>
 
- * Build components of the image processing pipeline for a multi-agent visual terrain relative navigation system
- * Train deep learning models (DeepLab) for semantic segmentation of maritime environments for position estimation
+ * Train and evaluate deep learning models for semantic segmentation and object detection in maritime environments
+ * Build key components of the image processing pipeline for multi-agent visual terrain relative navigation
+
 
  <!-- * Develop key components of the image processing pipeline for a multi-agent visual terrain relative navigation system designed for unmanned surface vessels -->
  <!-- * Develop multi-agent visual SLAM solutions by reconstructing terrain structure from image shapes and features -->

@@ -24,9 +24,11 @@ permalink: /skills/
  * Python
  * MATLAB
  * C++
+ * Bash
  * Git
  * OpenCV
  * Gazebo
+ * PLC
  * PX4
  * MAVROS
  * TensorFlow
