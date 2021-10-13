@@ -13,13 +13,14 @@ permalink: /experience/
 # NASA Jet Propulsion Laboratory
 
 **Robotics Intern – DARPA SubT Challenge, Drone Team** <br>
-*July 2021 - Present* <br>
+*Jul 2021 - Sep 2021* <br>
 [Team CoSTAR](https://costar.jpl.nasa.gov/) <br>
 
  * Hardware/software integration, simulation, and field testing of UAVs for underground search and rescue missions
+ * Integration and tuning of deep learning-based object detection and positioning pipeline for subterranean UAVs
 
 **Software Intern – Robotic Perception Systems** <br>
-*May 2021 – July 2021* <br>
+*May 2021 – Jul 2021* <br>
 
  * Continuation of previous work with Artificial Intelligence, Observation Planning & Analysis group
 

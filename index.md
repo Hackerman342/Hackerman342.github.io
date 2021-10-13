@@ -18,12 +18,10 @@ layout: home
       and machine learning.
       I am completing my masters thesis at KTH Royal Institute of Technology
       where I am pursuing an MSc in Systems, Control, and Robotics
-      in the Robotics and Autonomous Systems track. <br>
-      <br>
-      Currently I am working as an intern at NASA Jet Propulsion Laboratory
-      developing, simulating, and field testing solutions for autonomous drones
-      built for search and rescue missions in challenging environments
-      as part of <a href="https://costar.jpl.nasa.gov/">Team CoSTAR</a>. <br>
+      in the Robotics and Autonomous Systems track.
+      The focus of the thesis is the use of deep learning-based semantic segmentation
+      for terrain relative navigation of robots in extreme, GPS-denied environments,
+      including unmanned surface vessels (USVs) and planetary exploration rovers.<br>
       <br>
       <!-- Currently I am working as an intern at NASA Jet Propulsion Laboratory
       developing deep learning-based perception and localization technologies
@@ -51,10 +49,14 @@ layout: home
  </tr>
 </table>
 
-I am excited to begin my career developing autonomous robots
+I have just finished working as an intern at NASA Jet Propulsion Laboratory
+developing, simulating, and field testing solutions for autonomous drones
+built for search and rescue missions in challenging environments
+as part of <a href="https://costar.jpl.nasa.gov/">Team CoSTAR</a>.
+I am now excited to begin my career developing autonomous robots
 that make our world cleaner, safer, and more accessible. <br>
 <br>
-Be sure to check out [the documentation](https://alsarmie.github.io/DD2414-Documentation/)
+And be sure to check out [the documentation](https://alsarmie.github.io/DD2414-Documentation/)
 for the drone my friend Alex and I recently finished building from the ground up!
 
 <!-- <p align="right">
