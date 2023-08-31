@@ -22,20 +22,21 @@ permalink: /skills/
 # Programming
  * ROS
  * Python
- * MATLAB
  * C++
+ * MATLAB
  * Bash
  * Git
+ * Linux
+ * Docker
+ * Pybind
  * OpenCV
  * Gazebo
- * PLC
+ * PCL
  * PX4
  * MAVROS
  * TensorFlow
  * PyTorch
  * NumPy
- * R
- * Linux
  * adb
 
 # Modelling

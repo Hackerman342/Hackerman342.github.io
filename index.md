@@ -14,32 +14,14 @@ layout: home
     <td>
       Hi - my name is Kyle Coble. <br>
       <br>
-      I am an engineer focused in autonomous robotics, computer vision,
-      and machine learning.
-      I am completing my masters thesis at KTH Royal Institute of Technology
-      where I am pursuing an MSc in Systems, Control, and Robotics
-      in the Robotics and Autonomous Systems track.
-      The focus of the thesis is the use of deep learning-based semantic segmentation
-      for terrain relative navigation of robots in extreme, GPS-denied environments,
-      including unmanned surface vessels (USVs) and planetary exploration rovers.<br>
+      I am passionate about developing autonomous robots
+      that make our world cleaner, safer, and more accessible.
+      I recognize that through thoughtful solutions, robotics can play a key role in making our world
+      more liveable for *everyone* today and for future generations.
+      I am a roboticist, a computer vision engineer,
+      a firmware developer, a planner,
+      and an open source community builder.<br>
       <br>
-      <!-- Currently I am working as an intern at NASA Jet Propulsion Laboratory
-      developing deep learning-based perception and localization technologies
-      for fleets of autonomous maritime robots. <br> -->
-      <!-- Currently I am working as an intern at NASA Jet Propulsion Laboratory
-      working with deep learning-based perception and localization techniques
-      for fleets of autonomous robots. <br>
-      <br>
-      I am excited to begin my career developing autonomous robots
-      that make our world cleaner, safer, and more accessible. <br>
-      <br>
-      And be sure to check out [the documentation](https://alsarmie.github.io/DD2414-Documentation/)
-      for the drone my friend Alex and I recently finished building from the ground up! -->
-      <!-- I believe autonomous robots have the ability to make our world
-      cleaner, safer, and more accessible and
-      I am excited to begin my career developing autonomous robots for
-      industries including **sustainability**, **space / ocean exploration**,
-      and **mining / construction**. -->
     </td>
     <td>
       <p align="right">
@@ -49,32 +31,22 @@ layout: home
  </tr>
 </table>
 
-I have just finished working as an intern at NASA Jet Propulsion Laboratory
-developing, simulating, and field testing solutions for autonomous drones
-built for search and rescue missions in challenging environments
-as part of <a href="https://costar.jpl.nasa.gov/">Team CoSTAR</a>.
-I am now excited to begin my career developing autonomous robots
-that make our world cleaner, safer, and more accessible. <br>
+
+I have experience with robots across many environments,
+including aerial drones, autonomous underwater vehicles, maritime robotics, planetary exploration rovers, and agricultural robots.<br>
 <br>
-And be sure to check out [the documentation](https://alsarmie.github.io/DD2414-Documentation/)
-for the drone my friend Alex and I recently finished building from the ground up!
-
-<!-- <p align="right">
-  <kbd>
-    <img src="img/headshot.jpg" height="100">
-  </kbd>
-</p>
-
-Hi - my name is Kyle Coble. <br>
-I am a robotics engineer focused in autonomous robotics and computer vision. <br>
-I am in my final semester at KTH Royal Institute of Technology
-where I am pursuing an MSc in Systems, Control, and Robotics. <br> -->
-
-
-
-
-<!-- <td><p align="center"><img src="img/jpl_logo.gif" width="500"> -->
-<!-- [![JPL](img/jpl_logo.gif)](/experience/) -->
+My MSc thesis at KTH focused on the use of deep learning-based semantic segmentation
+for terrain relative navigation of robots in extreme, GPS-denied environments,
+including unmanned surface vessels (USVs) and planetary exploration rovers.<br>
+<br>
+Prior to joining farm-ng, I was at NASA Jet Propulsion Laboratory
+developing, simulating, and field testing solutions for autonomous drones
+built for search and rescue missions in challenging (underground!) environments
+as part of <a href="https://costar.jpl.nasa.gov/">Team CoSTAR</a>.<br>
+<br>
+Be sure to check out the documentation for the [Amiga Software Development Kit](https://amiga.farm-ng.com/)
+we've created at farm-ng or the ["Awesome Drone"](https://alsarmie.github.io/DD2414-Documentation/)
+my friend Alex and I built from the ground up!
 
 # [Education](/education/)
 
@@ -101,6 +73,14 @@ where I am pursuing an MSc in Systems, Control, and Robotics. <br> -->
 
 
 # [Experience](/experience/)
+
+<p align="center">
+  <!-- <a href="/experience/"> -->
+  <img src="img/logos/farm_ng_logo.gif" height="150">
+  <!-- </a> -->
+</p>
+
+<br>
 
 <p align="center">
   <!-- <a href="/experience/"> -->

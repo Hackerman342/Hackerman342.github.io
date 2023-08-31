@@ -5,6 +5,25 @@ permalink: /experience/
 ---
 
 <p align="left">
+  <a href="https://farm-ng.com/">
+    <img src="../img/logos/farm_ng_logo.png" height="100">
+  </a>
+</p>
+
+# farm-ng
+
+**Computer Vision Engineer** <br>
+*Jan 2022 – present* <br>
+
+ * Planning and development of robotics and computer vision software for autonomy of electric micro tractors
+ * Lead embedded system firmware development and testing for safety critical vehicle control using CAN protocols
+ * Foster an active opensource community through API development and management of community support
+
+[Amiga SDK Website](https://amiga.farm-ng.com/))
+
+
+
+<p align="left">
   <a href="https://www.jpl.nasa.gov/">
     <img src="../img/logos/jpl_logo.gif" height="100">
   </a>

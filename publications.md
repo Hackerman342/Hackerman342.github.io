@@ -6,20 +6,18 @@ permalink: /publications/
 
 # Semantic Mapping in Unstructured Environments: Toward Autonomous Localization of Planetary Robotic Explorers
 
-**Submitted - Pending review** <br>
 *2022 IEEE Aerospace Conference* <br>
 *Mar 2022* <br>
-[IEEE AERO Link](https://www.aeroconf.org/)
+[IEEE AERO Link](https://ieeexplore.ieee.org/document/9843550)
 
 | K. Ebadi et al. “Semantic Mapping in Unstructured Environments: Toward Autonomous Localization of Planetary Robotic Explorers.” IEEE Aerospace Conference, 2022
 
 
 # Topographical Landmarks for Ground-Level Terrain Relative Navigation on Mars
 
-**Submitted - Pending review** <br>
 *2022 IEEE Aerospace Conference* <br>
 *Mar 2022* <br>
-[IEEE AERO Link](https://www.aeroconf.org/)
+[IEEE AERO Link](https://ieeexplore.ieee.org/document/9843350)
 
 | J. Vander Hook et al. “Topographical Landmarks for Ground-Level Terrain Relative Navigation on Mars.” IEEE Aerospace Conference, 2022
 

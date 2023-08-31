@@ -15,7 +15,7 @@ permalink: /education/
 
 **[MSc Systems, Control, and Robotics](https://www.kth.se/en/studies/master/systems-control-robotics/description-1.8733)** <br>
 **Robotics and Autonomous Systems Track** <br>
-*Aug 2019 – Nov 2021 (anticipated graduation)* <br>
+*Aug 2019 – Dec 2021* <br>
 GPA: 3.72 / 4.0 <br>
 
 **Positions held at KTH** <br>
