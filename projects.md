@@ -6,6 +6,14 @@ permalink: /projects/
 driveId: 1Fuq0QKfbSe90Fed_5NmO_cHDs2LBIiZK/view
 ---
 
+# Skyline Delineation for Localization in Occluded Environments
+*Aug ’20 – Jan ‘21* <br>
+[Diva portal link](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1793341&dswid=3160) <br>
+
+
+ * Developed a novel method using semantic segmentation for accurate skyline detection in occluded environments with pixel-wise confidence scores
+ * Demonstrated effectiveness for monocular camera localization in GPS-denied areas using datasets from the Mars Perseverance Rover and uncrewed surface vessels
+
 
 # Hardware Design of an Unmanned Aerial Vehicle (UAV)
 *Aug ’20 – Jan ‘21* <br>

@@ -4,6 +4,26 @@ title: Publications
 permalink: /publications/
 ---
 
+Check out my [**Google Scholar**](https://scholar.google.com/citations?user=D2fleFkAAAAJ) page!
+
+# An Addendum to NeBula: Towards Extending TEAM CoSTAR’s Solution to Larger Scale Environments
+
+*2024 IEEE Transactions on Field Robotics* <br>
+*Aug 2024* <br>
+[IEEE Transactions on Field Robotics link](https://ieeexplore.ieee.org/abstract/document/10643435/)
+
+| B. Morrell et al. "An Addendum to NeBula: Towards Extending TEAM CoSTAR’s Solution to Larger Scale Environments." IEEE Transactions on Field Robotics, 2024
+
+
+# Skyline Delineation for Localization in Occluded Environments: Improved Skyline Delineation using Environmental Context from Deep Learning-based Semantic Segmentation
+
+*Master's Dissertation, KTH Royal Institute of Technology* <br>
+*Aug 2023* <br>
+[Diva portal link](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1793341&dswid=3160)
+
+| K. Coble, “Skyline Delineation for Localization in Occluded Environments: Improved Skyline Delineation using Environmental Context from Deep Learning-based Semantic Segmentation.” (Dissertation), 2023
+
+
 # Semantic Mapping in Unstructured Environments: Toward Autonomous Localization of Planetary Robotic Explorers
 
 *2022 IEEE Aerospace Conference* <br>
@@ -20,6 +40,15 @@ permalink: /publications/
 [IEEE AERO Link](https://ieeexplore.ieee.org/document/9843350)
 
 | J. Vander Hook et al. “Topographical Landmarks for Ground-Level Terrain Relative Navigation on Mars.” IEEE Aerospace Conference, 2022
+
+
+# Lunar Asset Messaging and on Orbit Navigation (LA MOON)
+
+*International Astronautical Federation, IAF, 2021* <br>
+*Oct 2021* <br>
+[Diva portal link](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1686621&dswid=5146)
+
+| C. Derewa et al. “Lunar Asset Messaging and on Orbit Navigation (LA MOON)” Proceedings of the International Astronautical Congress, 2021
 
 
 # Motion Model and Filtering Techniques for Scaled Vehicle Localization with Fiducial Marker Detection

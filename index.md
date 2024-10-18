@@ -17,7 +17,7 @@ layout: home
       I am passionate about developing autonomous robots
       that make our world cleaner, safer, and more accessible.
       I recognize that through thoughtful solutions, robotics can play a key role in making our world
-      more liveable for *everyone* today and for future generations.
+      more liveable for everyone today and for future generations.
       I am a roboticist, a computer vision engineer,
       a firmware developer, a planner,
       and an open source community builder.<br>
@@ -76,7 +76,7 @@ my friend Alex and I built from the ground up!
 
 <p align="center">
   <!-- <a href="/experience/"> -->
-  <img src="img/logos/farm_ng_logo.gif" height="150">
+  <img src="img/logos/farm_ng_logo.png" height="150">
   <!-- </a> -->
 </p>
 

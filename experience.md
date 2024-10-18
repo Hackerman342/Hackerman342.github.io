@@ -12,15 +12,24 @@ permalink: /experience/
 
 # farm-ng
 
+**Senior Software Engineer** <br>
+*Apr 2024 – present* <br>
+
+ * Architect, design, and engineer robotics and computer vision software for autonomy of electric tractors
+ * Lead embedded firmware development and testing for safety critical vehicle control using CAN protocols
+ * Implement EKF sensor fusion of IMU, wheel speed, and control signals for accurate odometry estimation
+ * Develop vehicle control and trajectory following algorithms for skid steer and four-wheel-steering robots
+ * Mentor internal and external engineering teams to resolve complex problems and promote best practices to enhance code quality
+
 **Computer Vision Engineer** <br>
-*Jan 2022 – present* <br>
+*Jan 2022 – Mar 2022* <br>
 
- * Planning and development of robotics and computer vision software for autonomy of electric micro tractors
- * Lead embedded system firmware development and testing for safety critical vehicle control using CAN protocols
- * Foster an active opensource community through API development and management of community support
+ * Developed drivers in Rust, C++, and Python for real-time data acquisition and logging from cameras, LiDAR, IMU, GPS, and CAN
+ * Deployed UKF sensor fusion of IMU, wheel speeds, and RTK-GPS for centimeter-accurate localization
+ * Owned system testing and integration, including automated build and test GitHub CI/CD pipelines
+ * Fostered an active open-source community through API development and managing community support
 
-[Amiga SDK Website](https://amiga.farm-ng.com/))
-
+[Amiga SDK Website](https://amiga.farm-ng.com/)
 
 
 <p align="left">
@@ -35,8 +44,8 @@ permalink: /experience/
 *Jul 2021 - Sep 2021* <br>
 [Team CoSTAR](https://costar.jpl.nasa.gov/) <br>
 
- * Hardware/software integration, simulation, and field testing of UAVs for underground search and rescue missions
- * Integration and tuning of deep learning-based object detection and positioning pipeline for subterranean UAVs
+ * Integrated subterranean UAV hardware and software systems and performed field testing for underground search and rescue missions as part of the DARPA SubT Challenge drone team
+ * Integrated and tuned the deep learning-based object detection and positioning pipeline for subterranean UAVs
 
 **Software Intern – Robotic Perception Systems** <br>
 *May 2021 – Jul 2021* <br>
@@ -46,8 +55,7 @@ permalink: /experience/
 **Software Intern – Artificial Intelligence, Observation Planning & Analysis** <br>
 *Jan 2021 – Apr 2021* <br>
 
- * Train and evaluate deep learning models for semantic segmentation and object detection in maritime environments
- * Build key components of the image processing pipeline for multi-agent visual terrain relative navigation
+ * Trained and evaluated ML models for semantic segmentation and object detection as part of a multi-agent visual terrain relative navigation pipeline on the Robotic Perception Systems team
 
 
  <!-- * Develop key components of the image processing pipeline for a multi-agent visual terrain relative navigation system designed for unmanned surface vessels -->
@@ -80,9 +88,10 @@ Key Topics: Filtering, Edge detection, Hough transforms, Stereo vision, Segmenta
 **Research Engineer - [Smart Mobility Lab](https://www.kth.se/sv/is/dcs/research/control-of-transport/smart-mobility-lab)** <br>
 *Sep 2019 – Dec 2020* <br>
 
- * Developed Python and C++ perception and localization ROS technologies for a fleet of scaled autonomous vehicles
+ * Developed perception and localization technologies using Python, C++, and ROS for a fleet of scaled autonomous vehicles
+ * Reduced state estimation uncertainty with sensor fusion of vehicular odometry and perception data
+ * Created robust object-oriented APIs enabling students to integrate fiducial SLAM into course projects
  * Reduced robotic hardware by customizing OpenCV packages for computer vision SLAM using fiducial landmarks
- * Wrote robust object-oriented APIs enabling students to integrate fiducial SLAM into advanced course projects
  * Improved autonomous vehicle traffic control tower UI/UX design with custom augmented reality applications
 
 [Publication: Motion Model and Filtering Techniques for Scaled Vehicle Localization with Fiducial Marker Detection](/publications/)
@@ -141,7 +150,6 @@ Key Topics: Filtering, Edge detection, Hough transforms, Stereo vision, Segmenta
  * Improved the capital expenditure request process by redesigning the project payback spreadsheet deployed company-wide
  * Designed and constructed systems involving pneumatics, evaporation, and air filtration
  * Trended and analyzed company-wide energy usage totaling $100M annually
-
 
 
 <p align="left">
