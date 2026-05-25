@@ -39,13 +39,16 @@ My MSc thesis at KTH focused on the use of deep learning-based semantic segmenta
 for terrain relative navigation of robots in extreme, GPS-denied environments,
 including unmanned surface vessels (USVs) and planetary exploration rovers.<br>
 <br>
-Prior to joining farm-ng, I was at NASA Jet Propulsion Laboratory
-developing, simulating, and field testing solutions for autonomous drones
-built for search and rescue missions in challenging (underground!) environments
+I am currently at <a href="https://voyantphotonics.com/">Voyant Photonics</a>,
+where I help lead software development for next-generation FMCW LiDAR sensors —
+from embedded firmware and DSP pipelines to customer-facing APIs and deployment tooling.<br>
+<br>
+Prior to Voyant, I was at farm-ng developing autonomy software for electric tractors,
+and before that at NASA Jet Propulsion Laboratory developing, simulating, and field testing
+solutions for autonomous drones built for search and rescue missions in challenging underground environments
 as part of <a href="https://costar.jpl.nasa.gov/">Team CoSTAR</a>.<br>
 <br>
-Be sure to check out the documentation for the [Amiga Software Development Kit](https://amiga.farm-ng.com/)
-we've created at farm-ng or the ["Awesome Drone"](https://alsarmie.github.io/DD2414-Documentation/)
+Check out the ["Awesome Drone"](https://alsarmie.github.io/DD2414-Documentation/)
 my friend Alex and I built from the ground up!
 
 # [Education](/education/)
@@ -73,6 +76,14 @@ my friend Alex and I built from the ground up!
 
 
 # [Experience](/experience/)
+
+<p align="center">
+  <!-- <a href="/experience/"> -->
+  <img src="img/logos/voyant_logo.png" height="150">
+  <!-- </a> -->
+</p>
+
+<br>
 
 <p align="center">
   <!-- <a href="/experience/"> -->
