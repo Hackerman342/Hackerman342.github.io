@@ -12,23 +12,22 @@ permalink: /experience/
 
 # Voyant Photonics, Inc.
 
-**Perception and Application Software Lead** <br>
-*Mar 2026 – present* <br>
+**Perception and Application Software Lead**
+*Mar 2026 – present*
+**Software Engineer**
+*Dec 2024 – Feb 2026*
 
-**Software Engineer** <br>
-*Dec 2024 – Feb 2026* <br>
-
- * Co-design end-to-end software architecture for FMCW LiDAR systems spanning FPGA, MCU, and host PC while defining and maintaining host-to-embedded interfaces and real-time system requirements
- * Own host-side software architecture and implementation including high-speed data capture, DSP pipelines, visualization, deployment tooling, and performance optimization for low-latency real-time operation
- * Drive adoption of Rust for sensor software architecture to improve memory safety and performance, leading development of customer-facing APIs with C++, Python bindings, and ROS2 integration
- * Lead productization of FMCW LiDAR from prototype to customer deployment through system integration, debugging, customer tooling, and end-to-end software ownership
- * Developed STM32 firmware in C++ for software-defined LiDAR enabling live reconfiguration of sensor state
- * Led a team developing Doppler ICP and point cloud registration algorithms for ego-velocity estimation
- * Build simulation, emulation, and high-throughput data capture tools accelerating validation and debugging
- * Implement over-network device management for remote configuration, firmware updates, and diagnostics
- * Developed embedded Linux software interfacing FPGA hardware via FTDI USB implementing DSP algorithms and UDP streaming
- * Partner with customers to support sensor integration, deployment, and field debugging efforts
- * Drive adoption of trunk-based development, CI/CD pipelines, and code review practices to improve development velocity and software quality
+- Design end-to-end software architecture for FMCW LiDAR systems spanning FPGA, MCU, and host PC, defining and maintaining host-to-embedded interfaces and real-time system requirements
+- Own host-side software architecture and implementation including high-speed data capture, range-doppler DSP pipelines, visualization, and performance optimization
+- Drive adoption of Rust for sensor software architecture as the core backend for C++ and Python APIs and ROS2 integration, enabling a high-performance, memory-safe sensor processing stack
+- Lead productization of FMCW LiDAR from prototype to customer deployment through system integration, deployment workflows, and debugging performance and timing issues across embedded and host systems
+- Developed STM32 firmware in C++ for software-defined LiDAR enabling live reconfiguration of sensor state
+- Led a team developing Doppler ICP and point cloud registration algorithms for ego-velocity estimation
+- Build simulation, emulation, and high-throughput data capture tools accelerating validation and debugging
+- Implement over-network device management for remote configuration, firmware updates, and diagnostics
+- Developed embedded Linux software interfacing FPGA hardware via FTDI USB implementing DSP algorithms and UDP streaming
+- Partner with customers to support sensor integration, deployment, and field debugging efforts
+- Drive adoption of trunk-based development, CI/CD pipelines, and code review practices to improve development velocity and software quality
 
 
 
